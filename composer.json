@@ -1,12 +1,12 @@
 {
-    "name": "zendframework/zend-mvc",
+    "name": "kbscon/zend-mvc",
     "description": " ",
     "license": "BSD-3-Clause",
     "keywords": [
         "zf2",
         "mvc"
     ],
-    "homepage": "https://github.com/zendframework/zend-mvc",
+    "homepage": "https://github.com/kbscon/zend-mvc",
     "autoload": {
         "psr-4": {
             "Zend\\Mvc\\": "src/"
